@@ -152,7 +152,6 @@
     <Compile Include="Logic\Chatbox\Commands\RainbowCommand.cs" />
     <Compile Include="Logic\Chatbox\Commands\ReloadScriptsCommand.cs" />
     <Compile Include="Logic\Chatbox\Commands\ReviveCommand.cs" />
-    <Compile Include="Logic\Chatbox\Commands\ReloadCommand.cs" />
     <Compile Include="Logic\Chatbox\Commands\SpawnStateCommand.cs" />
     <Compile Include="Logic\Chatbox\Commands\AdCommand.cs" />
     <Compile Include="Logic\Chatbox\Commands\ApCommand.cs" />
